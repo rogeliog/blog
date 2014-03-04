@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://blog.codeandomexico.org</link>
+    <atom:link href="http://blog.codeandomexico.org/feed.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <language>en-us</language>
+    <pubDate>Tue, 04 Mar 2014 21:22:04 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Mar 2014 21:22:04 +0000</lastBuildDate>
+
+    
+    
+    <item>
+      <title>El nuevo blog de Codeando México</title>
+      <link>http://blog.codeandomexico.org/2014/03/04/nuevo-blog/</link>
+      <pubDate>Tue, 04 Mar 2014 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://blog.codeandomexico.org/2014/03/04/nuevo-blog</guid>
+      <description>&lt;p&gt;El 12 de febrero nuestro blog en Tumblr fue desactivado. Después de buscar e investigar no encontramos la razón exacta, y Tumblr Support no nos pudo dar ninguna respuesta útil después de rebotar correos.&lt;/p&gt;
+
+&lt;p&gt;Decidimos no re-abrir un Tumblr y nos movimos a algo más seguro y transparente: &lt;a href=&quot;http://jekyllrb.com/docs/quickstart/&quot;&gt;Jekyll blog&lt;/a&gt; hosteado en &lt;a href=&quot;http://pages.github.com/&quot;&gt;GitHub pages&lt;/a&gt;. Ahora aunque intenten bajar o tumbarnos de la web tendremos un historial completo en Git listo para reactivarse en minutos.&lt;/p&gt;
+
+&lt;p&gt;Afortunadamente teníamos backup de todos nuestros blogposts y los estaremos re-posteando cada semana de marzo y abril hasta tener todo arriba de nuevo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hacia adelante en 2014: Autores invitados&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A partir de este mes abriremos nuestro blog a posts invitados. Queremos sumar historias de hacking cívico, datos abiertos, gobierno abierto y apps de código abierto en México y el mundo. Si te interesa publicar con nosotros escríbenos a &lt;a href=&quot;mailto:&amp;#101;&amp;#113;&amp;#117;&amp;#105;&amp;#112;&amp;#111;&amp;#064;&amp;#099;&amp;#111;&amp;#100;&amp;#101;&amp;#097;&amp;#110;&amp;#100;&amp;#111;&amp;#109;&amp;#101;&amp;#120;&amp;#105;&amp;#099;&amp;#111;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;&amp;#101;&amp;#113;&amp;#117;&amp;#105;&amp;#112;&amp;#111;&amp;#064;&amp;#099;&amp;#111;&amp;#100;&amp;#101;&amp;#097;&amp;#110;&amp;#100;&amp;#111;&amp;#109;&amp;#101;&amp;#120;&amp;#105;&amp;#099;&amp;#111;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt; o envíanos un &lt;a href=&quot;https://github.com/CodeandoMexico/blog/tree/master/_posts&quot;&gt;pull-request&lt;/a&gt; con tu post si eres desarrollador.&lt;/p&gt;
+
+&lt;p&gt;Bienvenido de vuelta al blog de Codeando México!&lt;/p&gt;</description>
+    </item>
+    
+    
+
+  </channel> 
+</rss>
